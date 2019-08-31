@@ -1421,6 +1421,6 @@ BO_ 1156 NEW_MSG_1: 8 XXX
 
 BO_ 909 AEB: 8 XXX
  SG_ AEB : 13|6@0+ (1,0) [0|63] "" XXX
- SG_ FCW? : 4|5@0+ (1,0) [0|31] "" XXX
- SG_ Counter Rev : 60|4@1+ (1,0) [0|15] "" XXX
- SG_ Counter : 56|7@1+ (1,0) [0|15] "" XXX
+ SG_ FCW : 4|5@0+ (1,0) [0|31] "" XXX
+ SG_ Counter : 56|4@1+ (1,0) [0|15] "" XXX
+ SG_ CounterRev2 : 60|4@1+ (0,0) [6|0] "," 4
