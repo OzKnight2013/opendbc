@@ -1426,4 +1426,8 @@ BO_ 909 AEB: 8 XXX
  SG_ CounterRev2 : 60|4@1+ (0,0) [0|15] "," 4
 
 BO_ 1555 LeadCar: 8 XXX
- SG_ LeadCar1 : 7|8@0+ (1,0) [0|255] "" XXX
+ SG_ LeadCarDistance : 7|8@0+ (1,0) [0|255] "" XXX
+ SG_ leadCarAccel? : 15|8@0+ (1,0) [0|255] "" XXX
+
+BO_ 1561 NEW_MSG_2: 8 XXX
+ SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|65535] "" XXX
