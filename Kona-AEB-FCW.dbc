@@ -1425,9 +1425,5 @@ BO_ 909 AEB: 8 XXX
  SG_ Counter : 56|4@1+ (1,0) [0|15] "" XXX
  SG_ CounterRev2 : 60|4@1+ (0,0) [0|15] "," 4
 
-BO_ 1555 Radar/Vision1?: 8 XXX
- SG_ LeadDistance : 7|8@0+ (1,0) [0|255] "" XXX
-
-BO_ 1557 Radar/Vision2?: 8 XXX
-
-BO_ 1559 Radar/Vision3?: 8 XXX
+BO_ 1555 LeadCar: 8 XXX
+ SG_ LeadCar1 : 7|8@0+ (1,0) [0|255] "" XXX
